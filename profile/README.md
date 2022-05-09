@@ -1,1 +1,1 @@
-# 💻 Tigard High Computer Science 🐯
+# 💻 Tigard High School Computer Science 🐯
