@@ -2,7 +2,7 @@
 
 ### Meet your instructors
 
-| ## Mr.Woodward | ## Mr.Bayha |
+| Mr.Woodward | Mr.Bayha |
 | --- | --- |
 | Robotics / Computer Science | Computer Science |
 | twoodward@ttsd.k12.or.us | kbayha@ttsd.k12.or.us |
