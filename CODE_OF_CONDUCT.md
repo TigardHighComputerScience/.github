@@ -77,6 +77,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
+twoodward@ttsd.k12.or.us
+kbayha@ttsd.k12.or.us
 tigardhighcs@gmail.com
 
 ## 11. License and attribution
