@@ -10,8 +10,8 @@
 <!-- </center> -->
 
 ### Courses
-- ![Python](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/python-icon.png)[Python 1 Repository](https://github.com/TigardHighComputerScience/Python1Course)
-- ![Python](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/python-icon.png)[Python 2 Repository](https://github.com/TigardHighComputerScience/Python2Course)
+- ![Python](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/python-icon.png)[Python 1 Repository](https://github.com/TigardHighComputerScience/Python1Course)
+- ![Python](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/python-icon.png)[Python 2 Repository](https://github.com/TigardHighComputerScience/Python2Course)
 
 ### Other resources
 - [What is a GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
