@@ -10,4 +10,4 @@ As representatives of Tigard High School we all carry the same rights and respon
 - Become informed, responsible and engaged citizens of our society.
 - Understand and respect our world of diverse cultures.
 
-<sub>For more information please visit the [Tigard High School Students Rights and Responsibilitys Handbook](https://www.ttsdschools.org/Page/8199)</sub>
+<sub>For more information please visit the [Tigard High School Students Rights and Responsibilitys Handbook](https://www.ttsdschools.org/Page/8199)</sub>.
