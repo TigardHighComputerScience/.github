@@ -5,7 +5,7 @@
 <!-- <center> -->
 | Mr.Woodward | Mr.Bayha |
 | --- | --- |
-| Robotics / Computer Science | Computer Science |
+| Robotics / Computer Science / CAD | Computer Science |
 | twoodward@ttsd.k12.or.us | kbayha@ttsd.k12.or.us |
 <!-- </center> -->
 
